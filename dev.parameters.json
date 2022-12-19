@@ -1,0 +1,19 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "appServiceAppName2": {
+            "value": "alejandroesc-assignment-be-dv"
+        },
+        "appServiceAppName4": {
+            "value": "alejandroesc-assignment-fe-dv"
+        },
+        "appServicePlanName2": {
+            "value": "alejandroesc-assignment-dv"
+        },
+        "environmentType": {
+            "value": "nonprod"
+        }
+    }
+}
+    
